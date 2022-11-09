@@ -4,7 +4,7 @@ wx yuyezhiji
 本项目是IntelliJ IDEA的插件，能帮助java开发者平时开发
 支持的IDEA版本为 2018.1 及以上
 
-https://github.com/a25017012/idea-plugin-java-toolsidea-plugin-java-tools/blob/main/soogif.gif
+![示例1](./blob/main/soogif.gif)
 ## 示例1
 
 log 自动加if判断
